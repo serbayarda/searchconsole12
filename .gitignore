@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+token.json
+client_secret.json
+cache/
+*.csv
+.DS_Store
+.idea/
+.vscode/
