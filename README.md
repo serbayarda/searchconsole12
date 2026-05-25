@@ -1,5 +1,9 @@
 # Search Console AI Agent
 
+> **First time setting this up? Read [SETUP.md](./SETUP.md) — it's a 3-step,
+> hand-held walkthrough. Don't try to follow the "Setup" section below until
+> you've done that once.**
+
 An AI agent that connects to your Google Search Console (GSC), pulls data via
 the official API, and answers free-form analytical questions in natural
 language. Powered by Claude Sonnet 4.6 with tool use.
